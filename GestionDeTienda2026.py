@@ -1,5 +1,5 @@
 import time
-# ----------------------------------------
+# ------------- GESTION DE TIENDA 2026 ---------------------------
 # Importo Libreria Colorama
 from colorama import init, Fore, Back
 
