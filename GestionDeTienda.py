@@ -21,7 +21,7 @@ print(Back.YELLOW+Fore.BLUE+"║                                          ║"+F
 print(Back.YELLOW+Fore.BLUE+"╚══════════════════════════════════════════╝"+Fore.RESET+Back.RESET)    
     
 time.sleep(3)  # Retrasa la ejecución durante 3 segundos
-# ----------------------------------------------------------
+
 
 # Lista principal que contendrá sublistas: [nombre, categoría, precio]
 productos = []
